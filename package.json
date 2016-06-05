@@ -2,6 +2,7 @@
   "name": "now-vault",
   "version": "0.0.1",
   "description": "now vault",
+  "repository": "millette/now-vault",
   "main": "vault.js",
   "scripts": {
     "start": "forever node_modules/.bin/micro -h 127.0.0.1 vault"
