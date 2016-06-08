@@ -22,6 +22,6 @@
   "license": "AGPL-3.0",
   "dependencies": {
     "forever": "^0.15.2",
-    "micro": "github:millette/micro#host-argument"
+    "micro": "^4.0.0"
   }
 }
