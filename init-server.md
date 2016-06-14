@@ -23,7 +23,7 @@ Finally, the "now server" verifies the nonce and if it checks out,
 it uses those secrets to complete its initialization.
 
 ### Sequence diagram
-![Sequence diagram](./sequence-diagram.svg)
+![Sequence diagram](sequence-diagram.svg)
 
 <https://bramp.github.io/js-sequence-diagrams/>
 
