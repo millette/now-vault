@@ -1,13 +1,26 @@
 {
-  "name": "vault-server",
-  "version": "0.0.0",
-  "description": "",
+  "name": "now-vault",
+  "version": "0.1.0",
+  "description": "now vault",
+  "repository": "millette/now-vault",
   "main": "index.js",
   "scripts": {
     "start": "forever node_modules/.bin/micro -p 4010 --host localhost index"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "now",
+    "secrets",
+    "vault"
+  ],
+  "author": {
+    "name": "Robin Millette",
+    "email": "robin@millette.info",
+    "url": "http://robin.millette.info"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "AGPL-3.0",
   "dependencies": {
     "forever": "^0.15.2",
     "got": "^6.3.0",
