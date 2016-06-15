@@ -22,6 +22,7 @@
   "license": "AGPL-3.0",
   "dependencies": {
     "forever": "^0.15.2",
-    "micro": "^4.0.0"
+    "micro": "^4.0.0",
+    "now-api": "github:millette/now-api#nowjson"
   }
 }
