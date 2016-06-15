@@ -2,3 +2,5 @@ node_modules
 passwords
 npm-debug.log
 vault-content.json
+secrets-ns.json
+secrets-vault-demo.json
