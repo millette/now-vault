@@ -1,6 +1,6 @@
 {
   "name": "now-vault",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "now vault",
   "repository": "millette/now-vault",
   "main": "vault.js",
